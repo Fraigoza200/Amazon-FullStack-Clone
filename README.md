@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Link](https://clone-1e1fc.web.app/)
+[Deployed Version](https://clone-1e1fc.web.app/)
 
 ## Amazon-Clone 
 #### Mimics the UI and Functionality of Amazon. Created in ReactJS and Redux, this project clearly displays the power of these technologies. Also, this applicaiton uses Firebase Authentication so that a user can easily create an Account and then access it. 
